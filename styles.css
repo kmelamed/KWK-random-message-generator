@@ -1,0 +1,46 @@
+body {
+  background-color: #9EDFDE;
+  text-align: center;
+}
+
+h1 {
+  padding: 2.5%;
+  background-color: #006687;
+  font-size: 300%;
+  margin: 3%;
+  color: #FCD868;
+  font-family: 'Bowlby One SC', cursive;
+}
+
+h3 {
+  font-family: 'Bowlby One', cursive;
+  color: #006687;
+  margin: 3% 15%;
+  font-size: 130%;
+}
+
+button {
+  padding: 1%;
+  background-color: #FCD868;
+  color: #006687;
+  font-family: 'Bowlby One', cursive;
+  border-color: #006687;
+  border-width: medium;
+  font-size: 90%;
+}
+
+#quote {
+  padding: 1.5% 15%;
+  font-size: 170%;
+  font-family: 'Bowlby One', cursive;
+  color: #006687;
+}
+
+#mulaneypic {
+  width: 25%;
+  object-fit: cover;
+  float: right;
+}
+
+/* #9EDFDE light blue. #FD9B64 orange. #FCD868 yellow  */
+/* dark blue #006687
